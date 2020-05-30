@@ -9,6 +9,8 @@ Equipo 3&amp;2 para GlobHack 2020
 ## Definición del proyecto:
 Desarrollar una app movil para venta de electrodomésticos utilizando realidad aumentada para mejorar la experiencia de usuario a la hora de tomar la decisión de compra, ofreciéndole información gráfica e interactiva de los productos existentes en stock.
 
+Dada la coyuntura generada por el COVID-19 se hace necesario ofrecerle la posibilidad a los clientes de visualizar y analizar los productos que desea comprar desde su casa, reduciendo el riego de contagio tanto del cliente como de los trabajadores de las tiendas.
+
 ### Alcance del proyecto:
 
 Crear un prototipo funcional en donde se puedan seleccionar electrodomésticos y se puedan visualizar en espacios reales mediante realidad aumenta haciendo uso de la cámara, activadores e información gráfica de una base de datos.
