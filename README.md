@@ -3,6 +3,7 @@ Equipo 3&amp;2 para GlobHack 2020
 ## Group members:
 - Brian Alexander Cuestas Ibáñez      
 - Christian Camilo Cuestas Ibáñez
+- Gabriel Hamilton
 - Laura Sofía Arias
 - Lina Paola Cardozo Garzón
 
