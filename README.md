@@ -1,11 +1,11 @@
 # GlobHack-3-2
 Equipo 3&amp;2 para GlobHack 2020
 ## Group members:
-- Brian Alexander Cuestas Ibáñez      
-- Christian Camilo Cuestas Ibáñez
-- Gabriel Hamilton
 - Laura Sofía Arias
 - Lina Paola Cardozo Garzón
+- Gabriel Hamilton
+- Brian Alexander Cuestas Ibáñez      
+- Christian Camilo Cuestas Ibáñez
 
 ## Definición del proyecto:
 Desarrollar una app movil para venta de electrodomésticos utilizando realidad aumentada para mejorar la experiencia de usuario a la hora de tomar la decisión de compra, ofreciéndole información gráfica e interactiva de los productos existentes en stock.
