@@ -20,3 +20,10 @@ Crear un prototipo funcional en donde se puedan seleccionar electrodomésticos y
 - App móvil en Android
 - Base de datos con información general de 3 electrodométicos con sus respectivas imágenes.
 - 
+
+## Tareas
+|           Tareas           |                      Encargados                      |
+|:--------------------------:|:----------------------------------------------------:|
+| 1. Desarrollo de app móvil | Christian Cuestas<br>Gabriel Hamilton<br>Laura Arias |
+| 2. Realidad Aumentada      | Brian Cuestas<br>Lina Cardozo                        |
+|                            |                                                      |
