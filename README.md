@@ -20,8 +20,7 @@ Crear un prototipo funcional en donde se puedan seleccionar electrodomésticos y
 - App móvil en Android
 - Base de datos con información general de 3 electrodométicos con sus respectivas imágenes.
 
-### Tecnologías a usar:
-Posiblemente:
+### Tecnologías utilizadas:
 
 - Desarrollo de la app: Myappvault
 - Realidad aumentada: Tecnología de RA de Instagram
