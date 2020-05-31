@@ -19,7 +19,6 @@ Crear un prototipo funcional en donde se puedan seleccionar electrodomésticos y
 ### Especificaciones
 - App móvil en Android
 - Base de datos con información general de 3 electrodométicos con sus respectivas imágenes.
-- 
 
 ### Tecnologías a usar:
 Posiblemente:
