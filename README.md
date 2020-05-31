@@ -23,6 +23,9 @@ Crear un prototipo funcional en donde se puedan seleccionar electrodomésticos y
 ### Tecnologías a usar:
 Posiblemente:
 
+### Link del video/pitch del proyecto:
+https://www.youtube.com/watch?v=95TL2nyYviA&feature=youtu.be
+
 - Desarrollo de la app: Flutter
 - Realidad aumentada: Blippar
 
