@@ -23,11 +23,8 @@ Crear un prototipo funcional en donde se puedan seleccionar electrodomésticos y
 ### Tecnologías a usar:
 Posiblemente:
 
-### Link del video/pitch del proyecto:
-https://www.youtube.com/watch?v=95TL2nyYviA&feature=youtu.be
-
-- Desarrollo de la app: Flutter
-- Realidad aumentada: Blippar
+- Desarrollo de la app: Myappvault
+- Realidad aumentada: Tecnología de RA de Instagram
 
 ## Tareas
 |           Tareas           |                      Encargados                      |
@@ -41,3 +38,6 @@ https://lina384810.wixsite.com/electrodomesticos3-2
 
 ### Aplicación móvil
 https://www.myappvault.co/5ed29866b81f7
+
+### Link del video/pitch del proyecto:
+https://www.youtube.com/watch?v=95TL2nyYviA&feature=youtu.be
