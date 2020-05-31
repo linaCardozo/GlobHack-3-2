@@ -33,3 +33,9 @@ Posiblemente:
 | 1. Desarrollo de app móvil | Christian Cuestas<br>Gabriel Hamilton<br>Laura Arias |
 | 2. Realidad Aumentada      | Brian Cuestas<br>Lina Cardozo                        |
 |                            |                                                      |
+
+### Página web catálogo productos
+https://lina384810.wixsite.com/electrodomesticos3-2
+
+### Aplicación móvil
+https://www.myappvault.co/5ed29866b81f7
